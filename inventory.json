@@ -1,0 +1,12 @@
+{
+    "bill_no":2,
+    "coke": 100,
+    "pepsi": 56,
+    "maaza": 86,
+    "Sprite": 35,
+    "rice":150,
+    "cooking oil":30,
+    "wheat":20,
+    "slice":50,
+    "aise":[95,44,"kg"]
+}
